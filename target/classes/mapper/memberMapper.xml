@@ -12,6 +12,10 @@ select * from free_member
 where id = #{id}
 </select>
 
+
+
+
+
 </mapper>
 
 
